@@ -1,0 +1,3 @@
+- [О чём будет учебник](https://chatgpt.com/share/6af8dc37-a9d0-83e9-bdb0-1b33345f9a2a)
+- [Глава 1. Что такое Domain-Driven Design и зачем он нужен](https://chatgpt.com/share/6af8db67-dd84-83ea-bf54-ddb4f6844ba0)
+- [Глава 2. Домен и бизнес-логика](https://chatgpt.com/share/6af8d758-11b4-83ea-8097-4b86b402a1c6)
